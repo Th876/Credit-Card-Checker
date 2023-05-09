@@ -27,18 +27,9 @@ h1 {
 }
 
 .input-field::placeholder {
-  font-size: 1.2rem;
+  color: #fb8500;
 }
-.input-btn {
-  padding: 13px 25px;
-  border-radius: 10px;
-  border: none;
-  background-color: #219ebc;
-  color: white;
-  font-weight: bold;
-  font-size: 1.5rem;
-  cursor: pointer;
-}
+
 
 .validate-btn {
   text-align: center;
